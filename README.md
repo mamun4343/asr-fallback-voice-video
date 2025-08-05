@@ -1,7 +1,7 @@
 # ASR Fallback Transcription Pipeline
 Supports both OpenAI Whisper and local `faster-whisper` transcription.
 ---
-## 🔧 Setup
+
 
 ### 1. Install dependencies
 pip install -r requirements.txt
